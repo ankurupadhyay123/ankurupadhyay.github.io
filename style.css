@@ -56,4 +56,7 @@ header.startup h1 {
   border-width: 10  px;
   cursor: pointer;
 }
-  
+
+div.clear {
+  text-align: center;
+}
